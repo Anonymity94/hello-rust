@@ -1,2 +1,3 @@
 # hello-rust
-study Rust
+
+可变不共享，共享不可变
