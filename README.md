@@ -19,3 +19,11 @@ https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer&ssr=
 ```bash
 cargo run
 ```
+
+## 学习文档
+
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+- [Rust入门秘籍](https://rust-book.junmajinlong.com/about.html)
+- [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/hello.html)
+- [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+- [Programming-Idioms](https://programming-idioms.org/all-idioms)
