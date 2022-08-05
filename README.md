@@ -8,6 +8,8 @@ https://doc.rust-lang.org/book/ch01-01-installation.html
 
 ## 包管理器
 
+> https://doc.rust-lang.org/cargo/index.html
+
 https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
 
 ## VSCode
